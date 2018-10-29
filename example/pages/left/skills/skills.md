@@ -7,12 +7,12 @@ column1_name: 编程技能
 column1_animation: fadeIn
 
 column1:
-  - name: 星际飞行
-    level: 8
-  - name: 星际生态学
-    level: 8
-  - name: 星际通信
-    level: 7
+  - name: 并发编程
+    level: 9
+  - name: 设计模式
+    level: 9
+  - name: ClassLoader
+    level: 9
   - name: 曲率原理
     level: 5
   - name: 天体物理学
@@ -30,10 +30,10 @@ column2_name: 能力简述
 column2_animation: fadeIn
 
 column2:
-  - name: 良好的操作规范。
-  - name: 熟悉舰船工作机制。
-  - name: 善于维护星际生态平衡。
-  - name: 喜欢星际文化交流。
+  - name: 深入研究过spring、mybatis源码
+  - name: 熟练使用maven、git等开发工具进行日常工作
+  - name: 熟练使用mybatis、JPA、hibernate进行数据库开发
+  - name: 熟练使用netty进行网络开发
   - name: 熟练使用曲率跃迁飞行。
   - name: 热衷星际通信与星舰调度。
   - name: 关注泛星际生态环境。
