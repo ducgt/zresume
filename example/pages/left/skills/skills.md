@@ -7,23 +7,23 @@ column1_name: 编程技能
 column1_animation: fadeIn
 
 column1:
-  - name: 并发编程
+  - name: Java基础
     level: 9
-  - name: 设计模式
+  - name: JVM
     level: 9
-  - name: ClassLoader
+  - name: 开源工具集及技术解决方案
     level: 9
-  - name: 曲率原理
+  - name: 开发框架
     level: 5
-  - name: 天体物理学
+  - name: 数据库持久化
     level: 7
-  - name: 生物材料学
+  - name: 网络编程
     level: 8
-  - name: 星舰结构学
+  - name: 分布式开发
     level: 4
-  - name: 汉语
+  - name: 框架设计
     level: 8
-  - name: 时空原理
+  - name: 开发平台
     level: 7
 
 column2_name: 能力简述
