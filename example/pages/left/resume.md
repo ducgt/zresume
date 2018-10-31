@@ -1,6 +1,7 @@
 ---
 title: 我的简历 | 陈磊
 name: 陈磊
+describe: 本科 软件工程
 
 baseinfo_name: "基本信息"
 baseinfo:
@@ -14,10 +15,6 @@ social_name: "社交信息"
 social:
     - line: "微信：cl15072314647"
     - line: "QQ：421524340"
-school_name: "教育背景"
-school:
-    - line: "毕业院校: 郑州大学（西亚斯国际学院）"
-    - line: "本科 软件工程"
 
 sitemap:
     changefreq: weekly
