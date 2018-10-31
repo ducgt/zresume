@@ -8,23 +8,23 @@ column1_animation: fadeIn
 
 column1:
   - name: Java基础
-    level: 9
+    level: 8
   - name: JVM
-    level: 9
+    level: 6
   - name: 开源工具集及技术解决方案
-    level: 9
+    level: 7
   - name: 开发框架
-    level: 5
+    level: 8
   - name: 数据库持久化
-    level: 7
+    level: 8
   - name: 网络编程
-    level: 8
-  - name: 分布式开发
     level: 4
+  - name: 分布式开发
+    level: 6
   - name: 框架设计
-    level: 8
-  - name: 开发平台
     level: 7
+  - name: 开发平台
+    level: 4
 
 column2_name: 能力简述
 column2_animation: fadeIn
