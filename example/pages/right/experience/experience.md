@@ -5,7 +5,7 @@ date: 16:49 08/29/2017
 
 experience:
   - date: 8年Java开发经验；
-    role: 重试重构，能编写可读性较强的优雅代码；
+    role: 能编写可读性较强的优雅代码；
     company: 有源码阅读习惯；
     years: 8
     animation: fadeIn
