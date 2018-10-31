@@ -14,7 +14,7 @@ interests:
       activity: 函数式编程
       animation: bounceIn
     - icon: shield
-      activity: AKKA
+      activity: Akka
       animation: bounceIn
 
 taxonomy:
