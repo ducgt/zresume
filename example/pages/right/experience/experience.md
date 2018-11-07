@@ -11,7 +11,7 @@ experience:
     animation: fadeIn
 
   - date: 4年分布式开发经验；
-    role: 熟练使用各种技术进行微服务程序开发；
+    role: 熟练使用各种技术进行微服务开发；
     company: 热衷新技术的学习与钻研；
     years: 4
     animation: fadeIn
