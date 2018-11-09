@@ -31,6 +31,9 @@ interests:
     - icon: shield
       activity: 函数式编程
       animation: bounceIn    
+    - icon: shield
+      activity: Antd
+      animation: bounceIn      
 
 taxonomy:
     category: right
