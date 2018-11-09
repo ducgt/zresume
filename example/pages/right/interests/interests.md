@@ -4,37 +4,37 @@ icon: link
 date: 16:40 08/29/2017
 
 interests:
-    - icon: shield
+    - icon: lightbulb
       activity: OSGI
       animation: bounceIn   
-    - icon: shield
+    - icon: crown
       activity: JavaCC
       animation: bounceIn      
-    - icon: shield
+    - icon: book
       activity: 领域特定语言
       animation: bounceIn     
-    - icon: pencil
+    - icon: cloud
       activity: Kubernetes
       animation: bounceIn
-    - icon: pencil
+    - icon: heart
       activity: fabric8
       animation: bounceIn      
-    - icon: html5
+    - icon: book
       activity: 领域驱动设计
       animation: bounceIn
-    - icon: shield
+    - icon: flag
       activity: Akka
       animation: bounceIn
-    - icon: shield
+    - icon: asterisk
       activity: Groovy
       animation: bounceIn  
-    - icon: shield
+    - icon: book
       activity: 函数式编程
       animation: bounceIn   
-    - icon: shield
+    - icon: anchor
       activity: Rxjava
       animation: bounceIn 
-    - icon: shield
+    - icon: asterisk
       activity: Ignite
       animation: bounceIn     
     - icon: shield
