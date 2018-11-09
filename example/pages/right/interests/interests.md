@@ -7,15 +7,21 @@ interests:
     - icon: pencil
       activity: Kubernetes
       animation: bounceIn
+    - icon: pencil
+      activity: fabric8
+      animation: bounceIn      
     - icon: html5
       activity: 领域驱动设计
       animation: bounceIn
     - icon: shield
-      activity: 函数式编程
-      animation: bounceIn
-    - icon: shield
       activity: Akka
       animation: bounceIn
+    - icon: shield
+      activity: Ignite
+      animation: bounceIn
+    - icon: shield
+      activity: 函数式编程
+      animation: bounceIn    
 
 taxonomy:
     category: right
