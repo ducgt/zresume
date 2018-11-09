@@ -1,6 +1,6 @@
 ---
 title: 工作经历
-icon: social-github
+icon: battery-full
 date: 16:24 08/29/2017 
 taxonomy:
     category: left
