@@ -4,6 +4,15 @@ icon: link
 date: 16:40 08/29/2017
 
 interests:
+    - icon: shield
+      activity: OSGI
+      animation: bounceIn   
+    - icon: shield
+      activity: JavaCC
+      animation: bounceIn      
+    - icon: shield
+      activity: 领域特定语言
+      animation: bounceIn     
     - icon: pencil
       activity: Kubernetes
       animation: bounceIn
