@@ -26,11 +26,17 @@ interests:
       activity: Akka
       animation: bounceIn
     - icon: shield
-      activity: Ignite
-      animation: bounceIn
+      activity: Groovy
+      animation: bounceIn  
     - icon: shield
       activity: 函数式编程
-      animation: bounceIn    
+      animation: bounceIn   
+    - icon: shield
+      activity: Rxjava
+      animation: bounceIn 
+    - icon: shield
+      activity: Ignite
+      animation: bounceIn     
     - icon: shield
       activity: Antd
       animation: bounceIn      
