@@ -1,7 +1,7 @@
 ---
 title: 我的简历 | 陈磊
 name: 陈磊
-description: 郑州大学 软件工程 本科
+description: 郑州大学（西亚斯国际学院） 软件工程 本科
 
 baseinfo_name: "基本信息"
 baseinfo:
