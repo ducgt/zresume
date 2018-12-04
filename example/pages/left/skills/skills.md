@@ -23,7 +23,7 @@ column1:
     level: 6
   - name: 框架设计
     level: 7
-  - name: 开发平台
+  - name: DevOps
     level: 4
 
 column2_name: 能力简述
