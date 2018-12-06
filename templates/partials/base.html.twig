@@ -11,6 +11,9 @@
             <link rel="icon" type="image/png" href="{{ url('theme://img/favicon.png') }}" />
 
             <script type='text/javascript' src='{{ url('theme://js/vendor/modernizr.js') }}'></script>
+			<script type='text/javascript' src='{{ url('theme://js/html2canvas.js') }}'></script>
+			<script type='text/javascript' src='{{ url('theme://js/jspdf.debug.js') }}'></script>
+			<script type='text/javascript' src='{{ url('theme://js/renderPDF.js') }}'></script>
 
             {% block stylesheets %}
                 {% do assets.addCss('theme://css/normalize.css') %}
@@ -55,6 +58,11 @@
             donut: true,
             donut_inner_ratio: 0.7,
         });
+		$(document).ready(function(){
+			$(".fi-arrow-down").bind("click",function(){
+				exportPDF(document.body,"陈磊-java-8年","a4");
+			});
+		});
         </script>
 
     </body>

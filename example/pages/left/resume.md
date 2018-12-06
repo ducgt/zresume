@@ -3,6 +3,9 @@ title: 我的简历 | 陈磊
 name: 陈磊
 description: 郑州大学 软件工程 本科
 
+download_name: "<i class=\"fi-arrow-down\"></i> 下载"
+download_url: ""
+
 baseinfo_name: "基本信息"
 baseinfo:
     - line: "出生于1990年1月"
